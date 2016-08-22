@@ -1,9 +1,9 @@
 # Site settings
-title: Dong Liang's CV 
-description: ddbullfrog's CV
-favicon: /assets/img/avatar.JPG
-baseurl: https://ddbullfrog.github.io/resumecard
-url: https://ddbullfrog.github.io/resumecard
+title: Jeff Hodgens
+description: Jeff Hodgens
+favicon: /https://lh3.googleusercontent.com/-ccbIfyLpq00/ThqEkl9j6jI/AAAAAAAAAD4/0HvX7LpPF0c6YDW27Gt1SUhm8Pf13L0uQCL0B/w197-h196-no/smile2.jpeg
+baseurl: https://github.com/armorupjeff/resume
+url: https://github.com/armorupjeff/resume
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
@@ -14,16 +14,16 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Dong Liang
-  title: Java Developer
-  address: Auckland, New Zealand
-  email: dongg.liang@gmail.com
-  link: http://ddbullfrog.com
+  name: Jeff Hodgens
+  title: Assistant Director of Foundation Relations
+  address: Orange County, California
+  email: jhodgens@gmail.com
+  link: http://jeffhodgens.com
   weibo:
-  github: ddbullfrog
-  linkedin: ddbullfrog
-  twitter: ddbullfrog
-  gavatar: /resumecard/assets/img/avatar.JPG
+  github: 
+  linkedin: 
+  twitter: _hijeff
+  gavatar: https://lh3.googleusercontent.com/-ccbIfyLpq00/ThqEkl9j6jI/AAAAAAAAAD4/0HvX7LpPF0c6YDW27Gt1SUhm8Pf13L0uQCL0B/w197-h196-no/smile2.jpeg
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
