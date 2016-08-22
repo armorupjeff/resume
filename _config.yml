@@ -1,9 +1,9 @@
 # Site settings
 title: Jeff Hodgens
 description: Jeff Hodgens
-favicon: /https://lh3.googleusercontent.com/-ccbIfyLpq00/ThqEkl9j6jI/AAAAAAAAAD4/0HvX7LpPF0c6YDW27Gt1SUhm8Pf13L0uQCL0B/w197-h196-no/smile2.jpeg
-baseurl: https://github.com/armorupjeff/resume
-url: https://github.com/armorupjeff/resume
+favicon: https://lh3.googleusercontent.com/-ccbIfyLpq00/ThqEkl9j6jI/AAAAAAAAAD4/0HvX7LpPF0c6YDW27Gt1SUhm8Pf13L0uQCL0B/w197-h196-no/smile2.jpeg
+baseurl: https://ddbullfrog.github.io/resumecard
+url: https://ddbullfrog.github.io/resumecard
 rss_url: /pages/atom.xml
 google_analytics: UA-63653234-1
 
