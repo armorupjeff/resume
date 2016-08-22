@@ -15,7 +15,7 @@ exclude: [vendor]
 # Author settings
 author:
   name: Jeff Hodgens
-  title: Assistant Director of Foundation Relations
+  title: Assistant Director of Foundation Relations - CHOC Children's Foundation
   address: Orange County, California
   email: jhodgens@gmail.com
   link: http://jeffhodgens.com
@@ -43,14 +43,18 @@ author:
       title: Gift Processor
       started: 2015
       duration: (2015 - 2016)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-    - work3:
+      description: -Developed process to improve and streamline gift processing by uploading large batches of philanthropic gifts instead of manually entering one at a time. This turned a 6 month process into days.<br>
+                   -Monitored, tracked and entered all gifts (cash and in-kind) into datbase (Raisers Edge)<br>
+                   -Assisted with all Special Events and Guild Events
       company: Foundation Building Materials
       location: Orange, California
       title: Pricing Manager
       started: 2012
       duration: (2012 - 2015)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: -Created/Managed all price matrices for all California branches from scratch. 
+                   -Developed, analyzed sales, inventory, fiscal, pricing reports
+                   -Developed and maintained cost/pricing models for western region 
+      I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
       organization: California State University Long Beach
@@ -59,7 +63,7 @@ author:
       major: Public Administration (Non-Profit Management)
       started: 2011
       duration: (2011 - 2013)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: 
     - education2:
       organization: California State University Fullerton
       location: Fullerton, California
@@ -67,7 +71,7 @@ author:
       major: History
       started: 2009
       duration: (2009 - 2010)
-      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+      description: 
 
   languages:
     - language1:
