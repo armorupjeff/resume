@@ -28,58 +28,58 @@ author:
 #  stackoverflow: 4582127
   workHistory:
     - work1:
-      company: Finzsoft Solutions Ltd
-      location: Auckland, New Zealand
-      title: Java Developer
-      started: 2014
-      duration: (2014 - Present)
+      company: CHOC Children's Foundation
+      location: Orange, California
+      title: Assistant Director of Foundation Relations
+      started: 2016
+      duration: (2016 - Present)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work2:
-      company: Agfa HealthCare
-      location: Shanghai, China
-      title: Java Developer
-      started: 2012
-      duration: (2012 - 2014)
+      company: CHOC Children's Foundation
+      location: Orange, California
+      title: GIft Processor
+      started: 2015
+      duration: (2015 - 2016)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
     - work3:
-      company: Citigroup Services and Technology (China) Limited
-      location: Shanghai, China
-      title: Java Developer
-      started: 2009
-      duration: (2009 - 2012)
+      company: Foundation Building Materials
+      location: Orange, California
+      title: Pricing Manager
+      started: 2012
+      duration: (2012 - 2015)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
   educationHistory:
     - education1:
-      organization: Northeastern University
-      location: Shenyang, China
-      degree: Bachelor
-      major: Software Engineering
-      started: 2005
-      duration: (2005 - 2009)
+      organization: California State University Long Beach
+      location: Long Beach, California
+      degree: Masters (MPA)
+      major: Public Administration (Non-Profit Management)
+      started: 2011
+      duration: (2011 - 2013)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
-  languages:
+  Things I like:
     - language1:
-      name: Chinese
-      proficiency: Native
+      name: Hearthstone
+      proficiency: 37x Rank 1 Legend - Antarctic Server
     - language2:
-      name: English
-      proficiency: Professional
+      name: Coffee
+      proficiency: Caffiene Plz
     - language3:
-      name: Japanese
-      proficiency: Limit
+      name: Hockey
+      proficiency: Go Ducks!
   programmingSkills:
     - skill1:
-      name: HTML
+      name: Grant Writing
       percentage: 100%
-    - skill2:
-      name: Bootstrap
+    - skill2: 
+      name: Non-Profit Management
       percentage: 90%
-    - skill3:
-      name: JavaScript
+    - skill3: 
+      name: Non-Profit Budget & Finance
       percentage: 70%
     - skill4:
-      name: AngularJS
+      name: Fund Development
       percentage: 70%
     - skill5:
-      name: Java/Java EE
+      name: Organizational Theory
       percentage: 90%
