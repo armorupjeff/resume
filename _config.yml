@@ -57,6 +57,15 @@ author:
       started: 2011
       duration: (2011 - 2013)
       description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+    - education2:
+      organization: California State University Long Beach
+      location: Long Beach, California
+      degree: Masters (MPA)
+      major: Public Administration (Non-Profit Management)
+      started: 2011
+      duration: (2011 - 2013)
+      description: I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description. I am not a description. I am not description.I am not description.
+
   languages:
     - language1:
       name: Hearthstone
