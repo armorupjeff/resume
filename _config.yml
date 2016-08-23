@@ -1,7 +1,7 @@
 # Site settings
 title: Jeff Hodgens
 description: Jeff Hodgens
-favicon: /assets/img/photo.jpg
+favicon: /img/photo.jpg
 baseurl: https://github.com/armorupjeff/resume
 url: https://github.com/armorupjeff/resume
 rss_url: /pages/atom.xml
@@ -23,7 +23,7 @@ author:
   github: 
   linkedin: 
   twitter: _hijeff
-  gavatar: /assets/img/photo.jpg
+  gavatar:  /img/photo.jpg
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
