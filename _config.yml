@@ -1,7 +1,7 @@
 # Site settings
 title: Jeff Hodgens
 description: Jeff Hodgens
-favicon: resume/assets/img/avatar.JPG
+favicon: img/avatar.JPG
 baseurl: https://ddbullfrog.github.io/resumecard
 url: https://ddbullfrog.github.io/resumecard
 rss_url: /pages/atom.xml
@@ -23,7 +23,7 @@ author:
   github: 
   linkedin: 
   twitter: _hijeff
-  gavatar: resume/assets/img/avatar.JPG
+  gavatar: img/avatar.JPG
   stackoverflow:
 #  stackoverflow: 4582127
   workHistory:
