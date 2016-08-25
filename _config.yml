@@ -14,14 +14,12 @@ exclude: [vendor]
 
 # Author settings
 author:
-  name: Jeff Hodgens
+  name: Jeff Hodgens, MPA
   title: Non-profit, Philanthropic Specialist
   address: Orange County, California
   email: jhodgens@gmail.com
+  email:jhodgens@choc.org
   link: http://jeffhodgens.com
-  weibo:
-  github: 
-  linkedin: 
   twitter: _hijeff
   gavatar: /assets/img/avatar.JPG
   stackoverflow:
